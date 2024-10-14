@@ -48,12 +48,10 @@ We stand by the following core principles to ensure exceptional service and impa
 
 To provide cutting-edge solutions, we leverage a diverse set of technologies:
 
-- **Programming Languages**: Python, Java, JavaScript, TypeScript, C#
-- **Frameworks**: React, Angular, Vue.js, Spring Boot, Flask, Django
+- **Programming/Scripting Languages**: C#, Java, PHP, JavaScript, HTML, CSS
+- **Frameworks**: React, Angular, Vue.js, Laravell, ASP.NET, Blazor, WPF, MAUI, Symfony, CakePHP, JavaFX, Swing and many more.
 - **Cloud Platforms**: AWS, Azure, Google Cloud
-- **Data & Analytics Tools**: Apache Kafka, Elasticsearch, Snowflake
-- **Automation and Orchestration**: Kubernetes, Docker, Terraform, Jenkins, GitHub Actions
-- **Security Tools**: Vault, Snyk, Nessus
+- **Automation and Orchestration**: Docker, GitHub Actions
 
 ## 📈 Our Projects
 
