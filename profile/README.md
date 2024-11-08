@@ -8,7 +8,7 @@ At Matzox, we envision a world where technology seamlessly supports and enhances
 
 ## 🌐 Website
 
-For more information about our services, please visit our website: [www.matzox.de](https://matzox.de)
+For more information about our services, please visit our website: [matzox.de](https://matzox.de)
 
 ## 🚪 Our Services
 
